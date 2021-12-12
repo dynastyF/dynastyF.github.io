@@ -1,25 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>dynsty</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://dynastyf.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2021-12-09T02:18:46.641Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://dynastyf.github.io/"/>
+  <updated>2021-12-12T09:03:30.850Z</updated>
+  <id>http://dynastyf.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>dynasty</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>netty</title>
+    <link href="http://dynastyf.github.io/2021/12/12/netty/"/>
+    <id>http://dynastyf.github.io/2021/12/12/netty/</id>
+    <published>2021-12-12T09:03:18.000Z</published>
+    <updated>2021-12-12T09:03:30.850Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/12/09/hello-world/"/>
-    <id>http://example.com/2021/12/09/hello-world/</id>
+    <link href="http://dynastyf.github.io/2021/12/09/hello-world/"/>
+    <id>http://dynastyf.github.io/2021/12/09/hello-world/</id>
     <published>2021-12-09T02:18:46.641Z</published>
     <updated>2021-12-09T02:18:46.641Z</updated>
     
